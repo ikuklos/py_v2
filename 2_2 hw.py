@@ -13,3 +13,4 @@ while startPoint <= int(N):
     startPoint = startPoint + 1
 
 print(result)
+
